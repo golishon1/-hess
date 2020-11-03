@@ -1,0 +1,273 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7afafb14d4034107815f522613dd4f70, type: 3}
+  m_Name: CheesCells
+  m_EditorClassIdentifier: 
+  _white: {fileID: 11400000, guid: 6f4587b8aceaa4627a30880baa7dbbfb, type: 2}
+  _black: {fileID: 11400000, guid: bd8df9e3bc7ce4d17bd5a942fa307e76, type: 2}
+  _cells:
+  - _pos: {x: 7, y: 0, z: 7}
+    _figure: {fileID: 11400000, guid: ced30b9d0498e4c068ee80dac650b86b, type: 2}
+    X: 0
+    Z: 0
+  - _pos: {x: 6, y: 0, z: 7}
+    _figure: {fileID: 11400000, guid: ced30b9d0498e4c068ee80dac650b86b, type: 2}
+    X: 1
+    Z: 0
+  - _pos: {x: 5, y: 0, z: 7}
+    _figure: {fileID: 11400000, guid: ced30b9d0498e4c068ee80dac650b86b, type: 2}
+    X: 2
+    Z: 0
+  - _pos: {x: 4, y: 0, z: 7}
+    _figure: {fileID: 11400000, guid: ced30b9d0498e4c068ee80dac650b86b, type: 2}
+    X: 3
+    Z: 0
+  - _pos: {x: 3, y: 0, z: 7}
+    _figure: {fileID: 11400000, guid: ced30b9d0498e4c068ee80dac650b86b, type: 2}
+    X: 4
+    Z: 0
+  - _pos: {x: 2, y: 0, z: 7}
+    _figure: {fileID: 11400000, guid: ced30b9d0498e4c068ee80dac650b86b, type: 2}
+    X: 5
+    Z: 0
+  - _pos: {x: 1, y: 0, z: 7}
+    _figure: {fileID: 11400000, guid: ced30b9d0498e4c068ee80dac650b86b, type: 2}
+    X: 6
+    Z: 0
+  - _pos: {x: 0, y: 0, z: 7}
+    _figure: {fileID: 11400000, guid: ced30b9d0498e4c068ee80dac650b86b, type: 2}
+    X: 7
+    Z: 0
+  - _pos: {x: 7, y: 0, z: 6}
+    _figure: {fileID: 0}
+    X: 0
+    Z: 1
+  - _pos: {x: 6, y: 0, z: 6}
+    _figure: {fileID: 0}
+    X: 1
+    Z: 1
+  - _pos: {x: 5, y: 0, z: 6}
+    _figure: {fileID: 0}
+    X: 2
+    Z: 1
+  - _pos: {x: 4, y: 0, z: 6}
+    _figure: {fileID: 0}
+    X: 3
+    Z: 1
+  - _pos: {x: 3, y: 0, z: 6}
+    _figure: {fileID: 0}
+    X: 4
+    Z: 1
+  - _pos: {x: 2, y: 0, z: 6}
+    _figure: {fileID: 0}
+    X: 5
+    Z: 1
+  - _pos: {x: 1, y: 0, z: 6}
+    _figure: {fileID: 0}
+    X: 6
+    Z: 1
+  - _pos: {x: 0, y: 0, z: 6}
+    _figure: {fileID: 0}
+    X: 7
+    Z: 1
+  - _pos: {x: 7, y: 0, z: 5}
+    _figure: {fileID: 0}
+    X: 0
+    Z: 2
+  - _pos: {x: 6, y: 0, z: 5}
+    _figure: {fileID: 0}
+    X: 1
+    Z: 2
+  - _pos: {x: 5, y: 0, z: 5}
+    _figure: {fileID: 0}
+    X: 2
+    Z: 2
+  - _pos: {x: 4, y: 0, z: 5}
+    _figure: {fileID: 0}
+    X: 3
+    Z: 2
+  - _pos: {x: 3, y: 0, z: 5}
+    _figure: {fileID: 0}
+    X: 4
+    Z: 2
+  - _pos: {x: 2, y: 0, z: 5}
+    _figure: {fileID: 0}
+    X: 5
+    Z: 2
+  - _pos: {x: 1, y: 0, z: 5}
+    _figure: {fileID: 0}
+    X: 6
+    Z: 2
+  - _pos: {x: 0, y: 0, z: 5}
+    _figure: {fileID: 0}
+    X: 7
+    Z: 2
+  - _pos: {x: 7, y: 0, z: 4}
+    _figure: {fileID: 0}
+    X: 0
+    Z: 3
+  - _pos: {x: 6, y: 0, z: 4}
+    _figure: {fileID: 0}
+    X: 1
+    Z: 3
+  - _pos: {x: 5, y: 0, z: 4}
+    _figure: {fileID: 0}
+    X: 2
+    Z: 3
+  - _pos: {x: 4, y: 0, z: 4}
+    _figure: {fileID: 0}
+    X: 3
+    Z: 3
+  - _pos: {x: 3, y: 0, z: 4}
+    _figure: {fileID: 0}
+    X: 4
+    Z: 3
+  - _pos: {x: 2, y: 0, z: 4}
+    _figure: {fileID: 0}
+    X: 5
+    Z: 3
+  - _pos: {x: 1, y: 0, z: 4}
+    _figure: {fileID: 0}
+    X: 6
+    Z: 3
+  - _pos: {x: 0, y: 0, z: 4}
+    _figure: {fileID: 0}
+    X: 7
+    Z: 3
+  - _pos: {x: 7, y: 0, z: 3}
+    _figure: {fileID: 0}
+    X: 0
+    Z: 4
+  - _pos: {x: 6, y: 0, z: 3}
+    _figure: {fileID: 0}
+    X: 1
+    Z: 4
+  - _pos: {x: 5, y: 0, z: 3}
+    _figure: {fileID: 0}
+    X: 2
+    Z: 4
+  - _pos: {x: 4, y: 0, z: 3}
+    _figure: {fileID: 0}
+    X: 3
+    Z: 4
+  - _pos: {x: 3, y: 0, z: 3}
+    _figure: {fileID: 0}
+    X: 4
+    Z: 4
+  - _pos: {x: 2, y: 0, z: 3}
+    _figure: {fileID: 0}
+    X: 5
+    Z: 4
+  - _pos: {x: 1, y: 0, z: 3}
+    _figure: {fileID: 0}
+    X: 6
+    Z: 4
+  - _pos: {x: 0, y: 0, z: 3}
+    _figure: {fileID: 0}
+    X: 7
+    Z: 4
+  - _pos: {x: 7, y: 0, z: 2}
+    _figure: {fileID: 0}
+    X: 0
+    Z: 5
+  - _pos: {x: 6, y: 0, z: 2}
+    _figure: {fileID: 0}
+    X: 1
+    Z: 5
+  - _pos: {x: 5, y: 0, z: 2}
+    _figure: {fileID: 0}
+    X: 2
+    Z: 5
+  - _pos: {x: 4, y: 0, z: 2}
+    _figure: {fileID: 0}
+    X: 3
+    Z: 5
+  - _pos: {x: 3, y: 0, z: 2}
+    _figure: {fileID: 0}
+    X: 4
+    Z: 5
+  - _pos: {x: 2, y: 0, z: 2}
+    _figure: {fileID: 0}
+    X: 5
+    Z: 5
+  - _pos: {x: 1, y: 0, z: 2}
+    _figure: {fileID: 0}
+    X: 6
+    Z: 5
+  - _pos: {x: 0, y: 0, z: 2}
+    _figure: {fileID: 0}
+    X: 7
+    Z: 5
+  - _pos: {x: 7, y: 0, z: 1}
+    _figure: {fileID: 0}
+    X: 0
+    Z: 6
+  - _pos: {x: 6, y: 0, z: 1}
+    _figure: {fileID: 0}
+    X: 1
+    Z: 6
+  - _pos: {x: 5, y: 0, z: 1}
+    _figure: {fileID: 0}
+    X: 2
+    Z: 6
+  - _pos: {x: 4, y: 0, z: 1}
+    _figure: {fileID: 0}
+    X: 3
+    Z: 6
+  - _pos: {x: 3, y: 0, z: 1}
+    _figure: {fileID: 0}
+    X: 4
+    Z: 6
+  - _pos: {x: 2, y: 0, z: 1}
+    _figure: {fileID: 0}
+    X: 5
+    Z: 6
+  - _pos: {x: 1, y: 0, z: 1}
+    _figure: {fileID: 0}
+    X: 6
+    Z: 6
+  - _pos: {x: 0, y: 0, z: 1}
+    _figure: {fileID: 0}
+    X: 7
+    Z: 6
+  - _pos: {x: 7, y: 0, z: 0}
+    _figure: {fileID: 0}
+    X: 0
+    Z: 7
+  - _pos: {x: 6, y: 0, z: 0}
+    _figure: {fileID: 0}
+    X: 1
+    Z: 7
+  - _pos: {x: 5, y: 0, z: 0}
+    _figure: {fileID: 0}
+    X: 2
+    Z: 7
+  - _pos: {x: 4, y: 0, z: 0}
+    _figure: {fileID: 0}
+    X: 3
+    Z: 7
+  - _pos: {x: 3, y: 0, z: 0}
+    _figure: {fileID: 0}
+    X: 4
+    Z: 7
+  - _pos: {x: 2, y: 0, z: 0}
+    _figure: {fileID: 0}
+    X: 5
+    Z: 7
+  - _pos: {x: 1, y: 0, z: 0}
+    _figure: {fileID: 0}
+    X: 6
+    Z: 7
+  - _pos: {x: 0, y: 0, z: 0}
+    _figure: {fileID: 0}
+    X: 7
+    Z: 7
